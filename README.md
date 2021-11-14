@@ -46,5 +46,7 @@
  
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" alt="aayushsrivastava's github stats" /></p>
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushsrivastava9760&theme=tokyonight" alt="Aayush's Github Stats" /></p>
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsrivastava9760&theme=tokyonight" alt="aayushsrivastava9760" /></p>
