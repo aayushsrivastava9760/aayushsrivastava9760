@@ -27,8 +27,8 @@
  width="40" height="40" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
  width="40" height="40" />
- <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
- width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" width="40" height="40" />
  
 
 ## Tools :
@@ -43,7 +43,8 @@
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="50" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-<img align="left" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="50" height="50" />
+<a href="https://postman.com" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50" /></a>
  
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" alt="aayushsrivastava's github stats" /></p>
