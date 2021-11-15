@@ -5,7 +5,9 @@
 
 <h3 align="center">A passionate web developer from India. Currently pursuing my B.Tech from Indian Institute of Technology (BHU), Varanasi</h3>
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> </p>
+
+<hr>
 
 - 🌱 I’m currently learning **Machine Learning** 
 
@@ -17,8 +19,9 @@
 
 - ⚡ Fun fact: I'm a table tennis player as well 
 
+<hr>
 
-## Languages: 
+<h3 align="left"> Languages: </h3>
 
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -31,8 +34,7 @@
 width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" width="40" height="40" />
  
 
-## Tools :
-
+<h3 align="left"> Tools : </h3>
 
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
@@ -48,6 +50,7 @@ width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/
 <a href="https://cyberbotics.com/" target="_blank"><img src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png" alt="webots" width="50" height="50" /></a>
  <a href="https://pybullet.org/wordpress/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bullet_Physics_Logo.svg/1280px-Bullet_Physics_Logo.svg.png" alt="webots" width="110" height="50" /></a>
  
+ <hr>
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" alt="aayushsrivastava's github stats" /></p>
  
