@@ -3,7 +3,7 @@
 
 <h1 align="center"> 👋 Hi there, I am Aayush Srivastava </h1>
 
-<h3 align="center">A passionate web developer from India. Currently pursuing my B.Tech from Indian Institute of Technology (BHU), Varanasi</h3>
+<h3 align="center">A passionate Full Stack developer from India. Currently pursuing my B.Tech from Indian Institute of Technology (BHU), Varanasi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> </p>
 
