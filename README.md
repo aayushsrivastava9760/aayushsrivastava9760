@@ -21,8 +21,8 @@
 
 - ⚡ Fun fact: I'm a table tennis player as well 
 
-<img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=MultiLanguage' />
-<img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=Commit' />
+
+<img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=MultiLanguage&title=Commit' />
 
 
 
