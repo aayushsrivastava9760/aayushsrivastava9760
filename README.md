@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **React, Node, Javascript, Express**
 
+- 🔥 Currently working on something cool .
+
 - 👨‍💻 All of my projects are available at https://github.com/aayushsrivastava9760
 
 - 📫 How to reach me aayushsrivastava9760@gmail.com
