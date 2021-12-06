@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Machine Learning** 
+- 🌱 I’m currently learning **Data Structures and Algorithms** 
 
 - 💬 Ask me about **React, Node, Javascript, Express**
 
