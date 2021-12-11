@@ -19,7 +19,7 @@
 
 - 📫 How to reach me aayushsrivastava9760@gmail.com
 
-- ⚡ Fun fact: I'm a table tennis player as well 
+- ⚡ Fun fact: I'm a table tennis player as well .
 
 
 <img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=MultiLanguage&title=Commit' />
