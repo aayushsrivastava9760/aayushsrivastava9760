@@ -54,6 +54,7 @@ width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50" /></a>
+  <a href="https://framer.com/" target="_blank"> <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/framer_logo_icon_169149.png" alt="framer motion" width="50" height="50"/> </a>
  <a href="www.heroku.com"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt="heroku" width="140" height="50"  /> </a>
  <a href="www.vercel.com"><img align="left" src="https://ml.globenewswire.com/Resource/Download/3a54c241-a668-4c94-9747-3d3da9da3bf2" alt="vercel" width="120" height="50"  /> </a>
  <a href="www.netlify.com"><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrVLrmLSqt7ua0NLSjn11b34rwvNABVSje4W47zZgIuRYQCnswYKUHmQ0QYGm4X7t6ar8&usqp=CAU" alt="netlify" width="140" height="50"  /> </a>
