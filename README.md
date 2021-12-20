@@ -7,14 +7,14 @@
 
 <p align="left"> 
  
- <img height="25" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> 
+ <img height="20" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> 
  
  <a href='https://www.linkedin.com/in/aayushsrivastava9760/'>
-<img height="25" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
+<img height="20" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
 </a>
 
 <a href='https://twitter.com/Aayush9760'>
-<img height="25" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
+<img height="20" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
 </a>
 </p>
 
@@ -31,6 +31,8 @@
 - 📫 How to reach me aayushsrivastava9760@gmail.com
 
 - ⚡ Fun fact: I'm a table tennis player as well .
+
+
 
 
 <img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=MultiLanguage&title=Commit' />
