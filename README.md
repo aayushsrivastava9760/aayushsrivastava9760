@@ -5,7 +5,18 @@
 
 <h3 align="center">A passionate Full Stack web developer from India. Currently pursuing my B.Tech from Indian Institute of Technology (BHU), Varanasi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> </p>
+<p align="left"> 
+ 
+ <img height="25" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> 
+ 
+ <a href='https://www.linkedin.com/in/aayushsrivastava9760/'>
+<img height="25" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
+</a>
+
+<a href='https://twitter.com/Aayush9760'>
+<img height="25" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
+</a>
+</p>
 
 <hr>
 
