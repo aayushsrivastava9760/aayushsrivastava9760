@@ -16,6 +16,10 @@
 <a href='https://twitter.com/Aayush9760'>
 <img height="20" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
 </a>
+ 
+<a href='https://aayush-srivastava.netlify.app/'>
+ <img height="20" src='https://img.shields.io/badge/-Aayush9760-47CCCC?style=flat&logo=Google-Chrome&logoColor=white' alt="aayush's website" />
+</a>
 </p>
 
 <hr>
