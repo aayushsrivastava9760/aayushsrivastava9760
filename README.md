@@ -9,16 +9,16 @@
  
  <img height="20" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> 
  
- <a href='https://www.linkedin.com/in/aayushsrivastava9760/'>
+ <a rel="noopener noreferrer" target='_blank' href='https://www.linkedin.com/in/aayushsrivastava9760/'>
 <img height="20" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
 </a>
 
-<a href='https://twitter.com/Aayush9760'>
+<a rel="noopener noreferrer" target='_blank' href='https://twitter.com/Aayush9760'>
 <img height="20" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
 </a>
  
-<a href='https://aayush-srivastava.netlify.app/'>
- <img height="20" src='https://img.shields.io/badge/-Aayush9760-47CCCC?style=flat&logo=Google-Chrome&logoColor=white' alt="aayush's website" />
+<a rel="noopener noreferrer" target='_blank' href='https://aayush-srivastava.netlify.app/'>
+ <img height="20" src='https://img.shields.io/badge/-aayush.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=white' alt="aayush's website" />
 </a>
 </p>
 
