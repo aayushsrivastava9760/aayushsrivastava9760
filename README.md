@@ -87,4 +87,4 @@ width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsrivastava9760&theme=tokyonight" alt="aayushsrivastava9760" /></p>
  
- [![activity graph](https://activity-graph.herokuapp.com/graph?username=aayushsrivastava9760&custom_title=Aayush's%20activity%20graph&theme=dracula&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=aayushsrivastava9760&custom_title=Aayush's%20activity%20graph&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
