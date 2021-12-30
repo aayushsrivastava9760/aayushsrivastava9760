@@ -7,7 +7,7 @@
 
 <p align="left"> 
  
- <img height="20" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsrivastava9760" /> 
+ <img height="20" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
  
  <a rel="noopener noreferrer" target='_blank' href='https://www.linkedin.com/in/aayushsrivastava9760/'>
 <img height="20" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
