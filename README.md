@@ -39,7 +39,7 @@
 
 
 
-<img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=MultiLanguage&title=Commit' />
+<img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=Commits&title=MultiLanguage&title=PullRequest&title=Repositories' />
 
 
 
