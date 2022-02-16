@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms** 
 
-- 💬 Ask me about **React, Node, Javascript, Express**
+- 💬 Ask me about **React, Node, Express, MongoDB**
 
 - 🔥 Currently working on something cool .
 
