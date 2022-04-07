@@ -20,6 +20,10 @@
 <a rel="noopener noreferrer" target='_blank' href='https://aayush-srivastava.netlify.app/'>
  <img height="20" src='https://img.shields.io/badge/-aayush.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=white' alt="aayush's website" />
 </a>
+ 
+ <a rel="noopener noreferrer" target='_blank' href='https://socioliz.netlify.app/'>
+<img height="20" width="130" src='https://img.shields.io/badge/-SocioLiz-00B2FF?style=flat&logo=messenger&logoColor=white' alt="SocioLiz" />
+</a>
 </p>
 
 <hr>
