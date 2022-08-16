@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/70c7fdf1c0af225de84d0787c33b027b/268a82ca6cb2a0f5-c6/s500x750/021df7474373701295ce311cf0bc29fd8e68e69a.gif" alt="coding" width="900" height="270" align="center" />
+<img src="https://64.media.tumblr.com/70c7fdf1c0af225de84d0787c33b027b/268a82ca6cb2a0f5-c6/s500x750/021df7474373701295ce311cf0bc29fd8e68e69a.gif" alt="coding" width="800" height="270" align="center" />
 
 
 <h1 align="center"> 👋 Hi there, I am Aayush Srivastava </h1>
