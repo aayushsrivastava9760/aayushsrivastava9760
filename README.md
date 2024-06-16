@@ -77,5 +77,13 @@ I love talking about innovative technologies and insightful concepts.
 <br />
 <hr>
 
+### 📕 Latest Blog Posts
+
+- [Optimizing Kafka Consumer by multi-threading in Python](https://aayush-srivastava.hashnode.dev/optimizing-kafka-consumer-by-multi-threading-in-python)
+
+➡️ [more blog posts...](https://aayush-srivastava.hashnode.dev/)
+
+<hr>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushsrivastava9760&theme=tokyonight&show_icons=true" alt="Aayush's Github Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsrivastava9760&theme=tokyonight" alt="aayushsrivastava9760" /></p>
