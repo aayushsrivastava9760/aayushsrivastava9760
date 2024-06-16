@@ -1,8 +1,8 @@
 <img src="https://github.com/aayushsrivastava9760/aayushsrivastava9760/assets/81965095/9f2fde01-ab94-4449-9f7d-9d6566610712" alt="coding" width="100%" height="270" align="center" />
 
-<h1 align="center"> 👋 Hi there, I am Aayush Srivastava </h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/aayushsrivastava9760/aayushsrivastava9760/main/wave.gif" width="30px" height="30px" />
 
-<h3 align="center">A passionate Full Stack web developer from India. Currently pursuing my B.Tech from Indian Institute of Technology (BHU), Varanasi</h3>
+My name is Aayush Srivastava, and I'm a Software Developer. I love talking about innovative technologies and insightful concepts.
 
 <p align="left"> 
  
