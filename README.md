@@ -1,4 +1,4 @@
-<img src="https://github.com/aayushsrivastava9760/aayushsrivastava9760/assets/81965095/9f2fde01-ab94-4449-9f7d-9d6566610712" alt="coding" width="800" height="270" align="center" />
+<img src="https://github.com/aayushsrivastava9760/aayushsrivastava9760/assets/81965095/9f2fde01-ab94-4449-9f7d-9d6566610712" alt="coding" width="100%" height="270" align="center" />
 
 <h1 align="center"> 👋 Hi there, I am Aayush Srivastava </h1>
 
