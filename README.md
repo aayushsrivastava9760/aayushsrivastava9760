@@ -1,93 +1,81 @@
 <img src="https://github.com/aayushsrivastava9760/aayushsrivastava9760/assets/81965095/9f2fde01-ab94-4449-9f7d-9d6566610712" alt="coding" width="100%" height="270" align="center" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/aayushsrivastava9760/aayushsrivastava9760/main/wave.gif" width="30px" height="30px" />
+## Hello, folks! <img src="https://raw.githubusercontent.com/aayushsrivastava9760/aayushsrivastava9760/main/wave.gif" width="30px" height="30px" />
 
-My name is Aayush Srivastava, and I'm a Software Developer. I love talking about innovative technologies and insightful concepts.
+My name is Aayush Srivastava, and I'm a Software Developer.
+
+I love talking about innovative technologies and insightful concepts.
 
 <p align="left"> 
  
- <img height="20" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+<img height="20" src="https://komarev.com/ghpvc/?username=aayushsrivastava9760&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
  
- <a rel="noopener noreferrer" target='_blank' href='https://www.linkedin.com/in/aayushsrivastava9760/'>
-<img height="20" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
+<a rel="noopener noreferrer" target='_blank' href='https://www.linkedin.com/in/aayushsrivastava9760/'>
+ <img height="20" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
 </a>
 
 <a rel="noopener noreferrer" target='_blank' href='https://twitter.com/Aayush9760'>
-<img height="20" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
+ <img height="20" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
 </a>
- 
-<a rel="noopener noreferrer" target='_blank' href='https://aayush-srivastava.netlify.app/'>
- <img height="20" src='https://img.shields.io/badge/-aayush.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=white' alt="aayush's website" />
-</a>
- 
- <a rel="noopener noreferrer" target='_blank' href='https://socioliz.netlify.app/'>
-<img height="20" src='https://img.shields.io/badge/-SocioLiz App-00B2FF?style=flat&logo=messenger&logoColor=white' alt="SocioLiz" />
-</a>
+
 </p>
 
 <hr>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms** 
+- 🌱 I’m currently learning **Distributed Systems** and **Serverless Architecture** 
 
-- 💬 Ask me about **React, Node, Express, MongoDB**
+- 💬 Ask me about **React**, **Node**, **MongoDB** and **Express** 
 
-- 🔥 Currently working on something cool .
+- 🔥 Currently working on something cool 
 
 - 👨‍💻 All of my projects are available at https://github.com/aayushsrivastava9760
 
 - 📫 How to reach me aayushsrivastava9760@gmail.com
 
-- ⚡ Fun fact: I'm a table tennis player as well .
+- ⚡ Fun fact: I love playing Table Tennis
 
-
-
-
+<br />
 <img src='https://github-profile-trophy.vercel.app/?username=aayushsrivastava9760&margin-w=38&theme=dracula&title=Commits&title=MultiLanguage&title=PullRequest&title=Repositories' />
 
 
 
+
+### 🔧 Technologies & Tools
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TS" width="26px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Gitlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/aayushsrivastava9760/aayushsrivastava9760/main//terminal-dark.svg" />
+<img align="left" alt="Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" style="padding-right:10px;" />
+<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Swagger" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Axios" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" style="padding-right:10px;" />
+
+
+<br />
+<br />
 <hr>
 
-<h3 align="left"> Languages: </h3>
-
-
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
- width="40" height="40" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
- width="40" height="40" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" width="40" height="40" />
- 
-
-<h3 align="left"> Tools : </h3>
-
-
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<img align="left" src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="50" height="40" />
-<a href="https://getbootstrap.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="50" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-<a href="https://postman.com" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50" /></a>
-  <a href="https://framer.com/" target="_blank"> <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/framer_logo_icon_169149.png" alt="framer motion" width="50" height="50"/> </a>
- <a href="www.heroku.com"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt="heroku" width="140" height="50"  /> </a>
- <a href="www.vercel.com"><img align="left" src="https://ml.globenewswire.com/Resource/Download/3a54c241-a668-4c94-9747-3d3da9da3bf2" alt="vercel" width="120" height="50"  /> </a>
- <a href="www.netlify.com"><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrVLrmLSqt7ua0NLSjn11b34rwvNABVSje4W47zZgIuRYQCnswYKUHmQ0QYGm4X7t6ar8&usqp=CAU" alt="netlify" width="140" height="50"  /> </a>
- 
-<a href="https://cyberbotics.com/" target="_blank"><img src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png" alt="webots" width="50" height="50" /></a>
- <a href="https://pybullet.org/wordpress/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bullet_Physics_Logo.svg/1280px-Bullet_Physics_Logo.svg.png" alt="webots" width="110" height="50" /></a>
- 
- <hr>
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" alt="aayushsrivastava's github stats" /></p>
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushsrivastava9760&theme=tokyonight&show_icons=true" alt="Aayush's Github Stats" /></p>
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsrivastava9760&theme=tokyonight" alt="aayushsrivastava9760" /></p>
- 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=aayushsrivastava9760&custom_title=Aayush's%20activity%20graph&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushsrivastava9760&theme=tokyonight&show_icons=true" alt="Aayush's Github Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsrivastava9760&theme=tokyonight" alt="aayushsrivastava9760" /></p>
