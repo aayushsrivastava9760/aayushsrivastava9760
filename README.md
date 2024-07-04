@@ -79,6 +79,7 @@ I love talking about innovative technologies and insightful concepts.
 
 ### 📕 Latest Blog Posts
 
+- [What is Cross-Site Scripting ?](https://aayush-srivastava.hashnode.dev/what-is-cross-site-scripting)
 - [Understanding Trunk-Based Development](https://aayush-srivastava.hashnode.dev/understanding-trunk-based-development)
 - [Optimizing Kafka Consumer by multi-threading in Python](https://aayush-srivastava.hashnode.dev/optimizing-kafka-consumer-by-multi-threading-in-python)
 
