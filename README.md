@@ -22,7 +22,7 @@ I love talking about innovative technologies and insightful concepts.
 
 <hr>
 
-- 🌱 I’m currently learning **Distributed Systems** and **Serverless Architecture** 
+- 🌱 I’m currently learning **AWS** and **Cloud Architecture** 
 
 - 💬 Ask me about **React**, **Node**, **MongoDB** and **Express** 
 
@@ -58,6 +58,7 @@ I love talking about innovative technologies and insightful concepts.
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
@@ -70,9 +71,11 @@ I love talking about innovative technologies and insightful concepts.
 <img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Swagger" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Axios" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="padding-right:10px;" />
 
 
 <br />
