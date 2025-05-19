@@ -84,6 +84,7 @@ I love talking about innovative technologies and insightful concepts.
 
 ### 📕 Latest Blog Posts
 
+- [Writing Low-Level Designs: Principles, Patterns, and My Experience at Amazon](https://aayush-srivastava.hashnode.dev/writing-low-level-designs-principles-patterns-and-my-experience-at-amazon)
 - [What is Cross-Site Scripting ?](https://aayush-srivastava.hashnode.dev/what-is-cross-site-scripting)
 - [Understanding Trunk-Based Development](https://aayush-srivastava.hashnode.dev/understanding-trunk-based-development)
 - [Optimizing Kafka Consumer by multi-threading in Python](https://aayush-srivastava.hashnode.dev/optimizing-kafka-consumer-by-multi-threading-in-python)
