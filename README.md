@@ -14,9 +14,9 @@ I love talking about innovative technologies and insightful concepts.
  <img height="20" src='https://img.shields.io/badge/-aayushsrivastava9760-blue?style=flat&logo=Linkedin&logoColor=white' alt="aayush's linkedin" />
 </a>
 
-<a rel="noopener noreferrer" target='_blank' href='https://twitter.com/Aayush9760'>
+<!-- <a rel="noopener noreferrer" target='_blank' href='https://twitter.com/Aayush9760'>
  <img height="20" src='https://img.shields.io/badge/-@Aayush9760-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white' alt="aayush's twitter" />
-</a>
+</a> -->
 
 </p>
 
